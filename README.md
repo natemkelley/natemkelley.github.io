@@ -1,7 +1,11 @@
-# Portfolio-2020
+# STATIC
 
-This is my official portfolio for 2020 built with AnimeJS, and Nuxt.
+**This directory is not required, you can delete it if you don't want to use it.**
 
-You can check it out in all its glory at [https://natemkelley.github.io/](https://natemkelley.github.io/).
+This directory contains your static files.
+Each file inside this directory is mapped to `/`.
+Thus you'd want to delete this README.md before deploying to production.
 
-![Image of Nate Kelley](https://github.com/natemkelley/portfolio-2020/blob/master/static/portfolio.png?raw=true)
+Example: `/static/robots.txt` is mapped as `/robots.txt`.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
