@@ -1,1 +1,11 @@
-This portfolio is largely based on the graphic design work of one of my favorite designers http://www.rleonardi.com/interactive-resume/. However, this portfolio is created in scalable Vue components and any of Rob's art has been recreated as scalable SVG images. All art in this repo is free game. Also, this repo is public and anyone is free to fork it and do a portfolio of their own. Have at it world.
+# STATIC
+
+**This directory is not required, you can delete it if you don't want to use it.**
+
+This directory contains your static files.
+Each file inside this directory is mapped to `/`.
+Thus you'd want to delete this README.md before deploying to production.
+
+Example: `/static/robots.txt` is mapped as `/robots.txt`.
+
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
